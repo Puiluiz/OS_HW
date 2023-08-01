@@ -1,0 +1,3 @@
+total 0
+-rw-r--r-- 1 nattanicha nattanicha 0 Jul 31 12:05 edit1.txt
+-rw-r--r-- 1 nattanicha nattanicha 0 Jul 31 12:06 edit2.txt
